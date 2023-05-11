@@ -1,2 +1,2 @@
 # create the title
-new relic demo dashboard
+new relic demo dashboard!
